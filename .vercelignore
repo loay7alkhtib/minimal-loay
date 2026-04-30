@@ -2,5 +2,6 @@
 *.png
 notion-reference-screenshots/
 Loay-Katib-personal-website.zip
+.git/
 .vercel/
 .vercel
