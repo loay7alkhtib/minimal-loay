@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract sands project render</title>
+  <desc id="desc">Layered silver panels with soft bands and editorial text marks.</desc>
+  <defs>
+    <linearGradient id="panel" x1="116" x2="640" y1="95" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".64" stop-color="#eef1f4"/>
+      <stop offset="1" stop-color="#c8cfd8"/>
+    </linearGradient>
+    <linearGradient id="sand" x1="210" x2="556" y1="198" y2="346" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f8f8f6"/>
+      <stop offset=".55" stop-color="#e7ebef"/>
+      <stop offset="1" stop-color="#d1d8e0"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="560" fill="#f8f8f5"/>
+  <ellipse cx="380" cy="486" rx="236" ry="33" fill="#8f99a7" opacity=".14"/>
+  <g>
+    <rect x="112" y="103" width="536" height="330" rx="34" fill="url(#panel)"/>
+    <rect x="132" y="123" width="496" height="290" rx="24" fill="#fbfbfa"/>
+    <rect x="184" y="176" width="392" height="184" rx="22" fill="url(#sand)" stroke="#fff"/>
+  </g>
+  <path fill="#fff" d="M191 279c66-34 121-41 166-22 71 30 116 20 208-39v49c-69 47-129 58-180 35-75-33-129-21-194 27z" opacity=".74"/>
+  <path fill="#cfd6df" d="M191 331c72-45 135-56 188-33 60 26 113 15 186-35v58c-83 50-150 59-205 27-50-29-106-20-169 26z" opacity=".55"/>
+  <g fill="#20242a">
+    <rect x="202" y="151" width="128" height="12" rx="6" opacity=".8"/>
+    <rect x="202" y="384" width="214" height="8" rx="4" opacity=".18"/>
+    <rect x="439" y="384" width="86" height="8" rx="4" opacity=".15"/>
+  </g>
+  <g fill="#dce1e7">
+    <rect x="540" y="145" width="44" height="10" rx="5"/>
+    <rect x="540" y="164" width="32" height="10" rx="5"/>
+  </g>
+</svg>

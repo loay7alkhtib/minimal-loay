@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Generic dashboard product render</title>
+  <desc id="desc">A soft blue dashboard interface with cards, charts, and metrics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="84" x2="552" y1="48" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6fbff"/>
+      <stop offset="1" stop-color="#d7ecfb"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <ellipse cx="320" cy="350" rx="210" ry="28" fill="#6f9fbd" opacity=".14"/>
+  <rect x="118" y="84" width="404" height="256" rx="28" fill="#ffffff" stroke="#d2e3ef"/>
+  <rect x="150" y="122" width="122" height="86" rx="18" fill="#eef7fd"/>
+  <rect x="292" y="122" width="198" height="86" rx="18" fill="#f4f9fd"/>
+  <rect x="150" y="232" width="340" height="72" rx="18" fill="#f4f9fd"/>
+  <path d="M170 274c40-48 72 6 113-22 28-20 44-52 96-58 32-4 56 2 90-22" stroke="#0071e3" stroke-width="8"/>
+  <path d="M318 158h126M318 184h84" stroke="#1d1d1f" stroke-opacity=".72" stroke-width="10"/>
+  <rect x="174" y="148" width="48" height="16" rx="8" fill="#1d1d1f"/>
+  <rect x="174" y="176" width="70" height="8" rx="4" fill="#7893a7" opacity=".45"/>
+</svg>

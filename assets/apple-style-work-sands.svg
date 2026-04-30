@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Generic cinematic web render</title>
+  <desc id="desc">A dark abstract browser surface with warm cinematic image panels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="96" x2="560" y1="46" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#15181d"/>
+      <stop offset="1" stop-color="#050607"/>
+    </linearGradient>
+    <linearGradient id="warm" x1="156" x2="482" y1="132" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ef6f54"/>
+      <stop offset=".52" stop-color="#234356"/>
+      <stop offset="1" stop-color="#0f1317"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <ellipse cx="330" cy="342" rx="226" ry="34" fill="#93a9bd" opacity=".1"/>
+  <rect x="126" y="96" width="392" height="236" rx="24" fill="#111418" stroke="#2d333b"/>
+  <rect x="150" y="128" width="344" height="154" rx="18" fill="url(#warm)"/>
+  <path d="M150 246c74-42 132-36 184-10 56 29 103 31 160-18v64H150z" fill="#eaf2f8" opacity=".16"/>
+  <path d="M184 176h92M184 203h184M184 228h140" stroke="#f7f7f7" stroke-opacity=".8" stroke-width="10"/>
+  <circle cx="434" cy="176" r="34" fill="#f06a50" opacity=".86"/>
+  <path d="M394 148c46 2 74 22 96 66" stroke="#7db7ce" stroke-width="8" opacity=".55"/>
+  <rect x="150" y="296" width="84" height="8" rx="4" fill="#fff" opacity=".32"/>
+  <rect x="262" y="296" width="128" height="8" rx="4" fill="#fff" opacity=".22"/>
+</svg>

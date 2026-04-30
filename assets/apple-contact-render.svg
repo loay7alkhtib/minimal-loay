@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 620" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract aluminum contact render</title>
+  <desc id="desc">Minimal white and silver contact card render with message-like bars.</desc>
+  <defs>
+    <linearGradient id="body" x1="170" x2="758" y1="80" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".6" stop-color="#eef1f4"/>
+      <stop offset="1" stop-color="#c5ccd6"/>
+    </linearGradient>
+    <linearGradient id="card" x1="270" x2="654" y1="152" y2="453" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#e8ecef"/>
+    </linearGradient>
+  </defs>
+  <rect width="920" height="620" fill="#f8f8f5"/>
+  <ellipse cx="461" cy="542" rx="260" ry="38" fill="#8e98a6" opacity=".15"/>
+  <g>
+    <rect x="166" y="82" width="588" height="442" rx="42" fill="url(#body)"/>
+    <rect x="190" y="106" width="540" height="394" rx="30" fill="#fbfbfa"/>
+    <rect x="263" y="157" width="394" height="238" rx="26" fill="url(#card)" stroke="#fff"/>
+  </g>
+  <g fill="#20242a">
+    <rect x="308" y="207" width="146" height="15" rx="8" opacity=".84"/>
+    <rect x="308" y="245" width="246" height="9" rx="5" opacity=".2"/>
+    <rect x="308" y="270" width="198" height="9" rx="5" opacity=".15"/>
+  </g>
+  <g fill="#dfe4ea">
+    <rect x="308" y="322" width="93" height="38" rx="12"/>
+    <rect x="418" y="322" width="193" height="38" rx="12"/>
+  </g>
+  <g transform="translate(616 320)">
+    <rect width="118" height="118" rx="26" fill="#d6dce4"/>
+    <rect x="12" y="12" width="94" height="94" rx="20" fill="#fbfbfa"/>
+    <path d="M34 44h50v35H34z" fill="none" stroke="#22272e" stroke-width="7" stroke-linejoin="round" opacity=".62"/>
+    <path d="m36 46 23 21 23-21" fill="none" stroke="#22272e" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" opacity=".62"/>
+  </g>
+  <g fill="#20242a" opacity=".14">
+    <rect x="236" y="438" width="152" height="8" rx="4"/>
+    <rect x="409" y="438" width="210" height="8" rx="4"/>
+  </g>
+</svg>

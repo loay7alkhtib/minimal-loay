@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Generic design process render</title>
+  <desc id="desc">Layered neutral process panels representing strategy, prototype, and build.</desc>
+  <defs>
+    <linearGradient id="bg" x1="78" x2="550" y1="42" y2="396" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e9eaee"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <ellipse cx="320" cy="352" rx="230" ry="30" fill="#9aa0a8" opacity=".16"/>
+  <rect x="108" y="106" width="214" height="206" rx="24" fill="#fff" stroke="#d6d8dd"/>
+  <rect x="284" y="72" width="248" height="250" rx="28" fill="#f7f7f8" stroke="#d1d4da"/>
+  <rect x="146" y="148" width="104" height="12" rx="6" fill="#1d1d1f"/>
+  <rect x="146" y="184" width="136" height="8" rx="4" fill="#9da3ab"/>
+  <rect x="146" y="208" width="104" height="8" rx="4" fill="#b3b8bf"/>
+  <rect x="322" y="120" width="154" height="14" rx="7" fill="#1d1d1f"/>
+  <rect x="322" y="164" width="166" height="88" rx="18" fill="#e4e7ec"/>
+  <path d="M346 214h116M346 190h80" stroke="#7f8792" stroke-width="9"/>
+  <circle cx="212" cy="254" r="28" fill="#0071e3"/>
+  <path d="m201 255 9 9 18-22" stroke="#fff" stroke-width="6"/>
+</svg>

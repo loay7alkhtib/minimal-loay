@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract circleback project render</title>
+  <desc id="desc">White aluminum phone-like panel with circular interface elements.</desc>
+  <defs>
+    <linearGradient id="rim" x1="230" x2="530" y1="58" y2="506" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".5" stop-color="#eef1f5"/>
+      <stop offset="1" stop-color="#c4ccd5"/>
+    </linearGradient>
+    <linearGradient id="face" x1="270" x2="491" y1="94" y2="458" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#eceff2"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="560" fill="#f8f8f5"/>
+  <ellipse cx="380" cy="501" rx="170" ry="30" fill="#909aa7" opacity=".15"/>
+  <g>
+    <rect x="255" y="58" width="250" height="446" rx="51" fill="url(#rim)"/>
+    <rect x="268" y="71" width="224" height="420" rx="40" fill="url(#face)" stroke="#fff"/>
+    <rect x="346" y="92" width="68" height="7" rx="4" fill="#c8ced6"/>
+  </g>
+  <g fill="#20242a">
+    <rect x="312" y="143" width="112" height="13" rx="7" opacity=".82"/>
+    <rect x="312" y="174" width="136" height="7" rx="4" opacity=".18"/>
+    <rect x="312" y="194" width="94" height="7" rx="4" opacity=".14"/>
+  </g>
+  <g transform="translate(300 245)">
+    <circle cx="80" cy="74" r="71" fill="#dfe4ea"/>
+    <circle cx="80" cy="74" r="50" fill="#f8f8f7" stroke="#fff" stroke-width="3"/>
+    <path d="M80 11a63 63 0 0 1 58 87" fill="none" stroke="#23272e" stroke-linecap="round" stroke-width="10" opacity=".58"/>
+    <path d="M47 128a63 63 0 0 1-28-75" fill="none" stroke="#23272e" stroke-linecap="round" stroke-width="10" opacity=".18"/>
+    <rect x="51" y="67" width="58" height="10" rx="5" fill="#20242a" opacity=".72"/>
+  </g>
+  <g fill="#20242a" opacity=".15">
+    <rect x="314" y="429" width="132" height="8" rx="4"/>
+    <rect x="340" y="450" width="80" height="8" rx="4"/>
+  </g>
+</svg>

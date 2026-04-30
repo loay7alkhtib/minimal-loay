@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Generic AI workflow render</title>
+  <desc id="desc">Floating abstract mobile panels and workflow bubbles on a blue surface.</desc>
+  <defs>
+    <linearGradient id="bg" x1="76" x2="548" y1="28" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eff8ff"/>
+      <stop offset="1" stop-color="#cfe3f4"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="228" x2="386" y1="58" y2="354" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#e8f1f8"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <ellipse cx="320" cy="352" rx="190" ry="30" fill="#7895ab" opacity=".16"/>
+  <rect x="220" y="56" width="180" height="304" rx="38" fill="#c5d7e5"/>
+  <rect x="234" y="70" width="152" height="276" rx="28" fill="url(#phone)"/>
+  <rect x="276" y="104" width="70" height="8" rx="4" fill="#b9cad8"/>
+  <rect x="270" y="148" width="88" height="12" rx="6" fill="#1d1d1f" opacity=".78"/>
+  <rect x="270" y="178" width="100" height="8" rx="4" fill="#9aaeba" opacity=".55"/>
+  <rect x="270" y="202" width="70" height="8" rx="4" fill="#9aaeba" opacity=".34"/>
+  <circle cx="310" cy="272" r="48" fill="#eef5fa"/>
+  <path d="M310 226a46 46 0 0 1 44 59" stroke="#5f7484" stroke-width="7"/>
+  <path d="M289 272h42" stroke="#1d1d1f" stroke-width="7"/>
+  <rect x="112" y="144" width="116" height="54" rx="20" fill="#fff" opacity=".88"/>
+  <rect x="414" y="184" width="118" height="54" rx="20" fill="#fff" opacity=".88"/>
+  <rect x="438" y="122" width="82" height="38" rx="19" fill="#1d1d1f" opacity=".12"/>
+  <circle cx="164" cy="170" r="12" fill="#0066cc"/>
+  <circle cx="452" cy="211" r="12" fill="#0066cc"/>
+</svg>

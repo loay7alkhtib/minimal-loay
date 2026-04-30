@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Generic brand and product UI render</title>
+  <desc id="desc">A legal-safe abstract laptop with green brand and finance interface panels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" x2="552" y1="42" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f7fbf8"/>
+      <stop offset="1" stop-color="#dfeae2"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="176" x2="492" y1="118" y2="314" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fdfefd"/>
+      <stop offset="1" stop-color="#eef4ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <ellipse cx="320" cy="346" rx="208" ry="28" fill="#7f998b" opacity=".16"/>
+  <rect x="154" y="92" width="332" height="236" rx="22" fill="#c8d4ce"/>
+  <rect x="168" y="106" width="304" height="194" rx="14" fill="url(#screen)"/>
+  <rect x="122" y="300" width="396" height="20" rx="10" fill="#b9c8c0"/>
+  <rect x="198" y="138" width="92" height="14" rx="7" fill="#1d1d1f"/>
+  <rect x="198" y="170" width="204" height="9" rx="5" fill="#78867e" opacity=".4"/>
+  <rect x="198" y="193" width="166" height="9" rx="5" fill="#78867e" opacity=".28"/>
+  <rect x="198" y="236" width="62" height="54" rx="11" fill="#d5ded8"/>
+  <rect x="282" y="220" width="70" height="70" rx="12" fill="#c6d2cb"/>
+  <rect x="374" y="202" width="72" height="88" rx="12" fill="#b8c6bf"/>
+  <circle cx="430" cy="148" r="18" fill="#1f6f50"/>
+  <path d="M421 149h18M430 140v18" stroke="#fff" stroke-width="4"/>
+</svg>

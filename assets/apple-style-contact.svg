@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Generic contact workspace render</title>
+  <desc id="desc">A soft neutral message workspace with a small mail control.</desc>
+  <defs>
+    <linearGradient id="bg" x1="74" x2="560" y1="48" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#edf0f4"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#bg)"/>
+  <ellipse cx="320" cy="350" rx="206" ry="28" fill="#98a1ad" opacity=".15"/>
+  <rect x="156" y="88" width="328" height="242" rx="30" fill="#dce2e9"/>
+  <rect x="174" y="106" width="292" height="192" rx="20" fill="#fff"/>
+  <rect x="216" y="146" width="88" height="12" rx="6" fill="#1d1d1f" opacity=".75"/>
+  <rect x="216" y="178" width="164" height="8" rx="4" fill="#9aa2ab" opacity=".55"/>
+  <rect x="216" y="202" width="122" height="8" rx="4" fill="#9aa2ab" opacity=".36"/>
+  <rect x="216" y="240" width="74" height="40" rx="10" fill="#edf1f5"/>
+  <rect x="308" y="240" width="74" height="40" rx="10" fill="#edf1f5"/>
+  <rect x="394" y="214" width="62" height="62" rx="18" fill="#fff" stroke="#c4ccd5" stroke-width="8"/>
+  <path d="M408 235h34v24h-34z" stroke="#6e7780" stroke-width="5"/>
+  <path d="m408 237 17 12 17-12" stroke="#6e7780" stroke-width="5"/>
+</svg>

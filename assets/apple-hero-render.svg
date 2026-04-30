@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 860" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract aluminum portfolio hero render</title>
+  <desc id="desc">Layered white and silver product panels with dark editorial text bars.</desc>
+  <defs>
+    <linearGradient id="bg" x1="135" x2="985" y1="70" y2="790" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".48" stop-color="#f3f4f6"/>
+      <stop offset="1" stop-color="#d8dce2"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="268" x2="932" y1="116" y2="738" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".54" stop-color="#eef0f3"/>
+      <stop offset="1" stop-color="#bcc3cc"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="330" x2="895" y1="170" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".62" stop-color="#f6f7f8"/>
+      <stop offset="1" stop-color="#e0e4e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="860" fill="#f8f8f6"/>
+  <ellipse cx="610" cy="768" rx="330" ry="54" fill="#8e98a6" opacity=".18"/>
+  <g>
+    <rect x="258" y="78" width="684" height="706" rx="44" fill="url(#edge)"/>
+    <rect x="277" y="97" width="646" height="668" rx="32" fill="url(#bg)"/>
+    <rect x="330" y="154" width="540" height="548" rx="24" fill="url(#screen)" stroke="#fff" stroke-width="2"/>
+    <path fill="#d7dce3" d="M330 481h540v197c0 13-11 24-24 24H354c-13 0-24-11-24-24z" opacity=".42"/>
+  </g>
+  <g fill="#20242a">
+    <rect x="386" y="226" width="198" height="18" rx="9" opacity=".88"/>
+    <rect x="386" y="267" width="328" height="10" rx="5" opacity=".28"/>
+    <rect x="386" y="291" width="252" height="10" rx="5" opacity=".2"/>
+  </g>
+  <g transform="translate(386 364)">
+    <rect width="330" height="194" rx="22" fill="#fafafa" stroke="#fff"/>
+    <rect x="26" y="30" width="116" height="12" rx="6" fill="#252a31" opacity=".82"/>
+    <rect x="26" y="62" width="242" height="8" rx="4" fill="#252a31" opacity=".18"/>
+    <rect x="26" y="84" width="205" height="8" rx="4" fill="#252a31" opacity=".14"/>
+    <rect x="26" y="124" width="278" height="42" rx="10" fill="#eef1f5"/>
+  </g>
+  <g transform="translate(655 323)">
+    <rect width="172" height="276" rx="31" fill="#d9dee5"/>
+    <rect x="9" y="9" width="154" height="258" rx="24" fill="#fbfbfa"/>
+    <rect x="36" y="50" width="84" height="10" rx="5" fill="#20242a" opacity=".75"/>
+    <rect x="36" y="82" width="102" height="7" rx="4" fill="#20242a" opacity=".18"/>
+    <rect x="36" y="103" width="76" height="7" rx="4" fill="#20242a" opacity=".14"/>
+    <circle cx="86" cy="178" r="42" fill="#eceff3"/>
+  </g>
+  <path fill="#fff" d="M310 118c70-38 202-53 369-40 81 6 146 18 195 35-126-10-259-12-399-4-67 4-122 7-165 9z" opacity=".45"/>
+</svg>
